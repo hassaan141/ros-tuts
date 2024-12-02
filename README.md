@@ -1,3 +1,3 @@
 # ros-tuts
 
-#Repoistory where I am learing some important ros concepts
+Repoistory where I am learing some important ros concepts
